@@ -1,0 +1,42 @@
+ERROR:root:ERROR: A transiï¿½ao: q1:a:q3,q2 Nï¿½o faz parte do automato!
+ERROR:root:ERROR: A transiï¿½ao: q1:a:q3,q2 Nï¿½o faz parte do automato!
+ERROR:root:'RESULT' is not in list
+ERROR:root:save() missing 1 required positional argument: 'filename'
+ERROR:root:save() missing 1 required positional argument: 'filename'
+ERROR:root:save() missing 1 required positional argument: 'filename'
+ERROR:root:object of type 'Workbook' has no len()
+ERROR:root:object of type 'Workbook' has no len()
+ERROR:root:object of type 'Workbook' has no len()
+ERROR:root:'Worksheet 2 does not exist.'
+ERROR:root:<class 'datetime.datetime'>:'Worksheet 2 does not exist.'
+ERROR:root:2020-05-18 21:37:39.463945:'Worksheet 2 does not exist.'
+ERROR:root:2020-05-18 21:39:39.236014:2 is not in list
+ERROR:root:2020-05-18 21:39:49.213835:2 is not in list
+ERROR:root:2020-05-18 21:47:14.632716:[Errno 13] Permission denied: 'C:\\Users\\319024\\PycharmProjects\\untitled2\\file\\input_table.xlsx'
+ERROR:root:2020-05-18 22:03:51.725415:argument of type 'NoneType' is not iterable
+ERROR:root:2020-05-18 22:05:32.408411:[Errno 13] Permission denied: 'C:\\Users\\319024\\PycharmProjects\\untitled2\\file\\input_table.xlsx'
+ERROR:root:2020-05-18 22:17:07.111331:<openpyxl.workbook.workbook.Workbook object at 0x000001F525751640> is not in list
+ERROR:root:2020-05-18 22:43:28.807210:module 'os' has no attribute 'wait'
+ERROR:root:2020-05-18 22:54:30.496057:[Errno 13] Permission denied: 'C:\\Users\\319024\\PycharmProjects\\untitled2\\file\\input_table.xlsx'
+ERROR:root:2020-05-19 02:23:12.881440:[Errno 2] No such file or directory: 'C:\\Users\\319024\\PycharmProjects\\untitled2\\file\\input_table.xlsx'
+ERROR:root:2020-05-19 02:24:28.646112:[Errno 2] No such file or directory: 'C:\\Users\\319024\\PycharmProjects\\untitled2\\file\\input_table.xlsx'
+
+C:\Users\319024\PycharmProjects\untitled2\fileERROR:root:2020-05-19 02:45:35.385101:'NoneType' object has no attribute 'get_transitions_list_by_symbol'
+ERROR:root:2020-05-19 23:21:06.161276:[Errno 13] Permission denied: 'C:\\Users\\319024\\PycharmProjects\\untitled2\\file\\input_file.xlsx'
+ERROR:root:2020-05-22 23:18:11.015045:'State' object has no attribute 'get_transition'
+ERROR:root:2020-05-25 14:46:55.349399:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 14:48:28.688205:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 14:49:44.124839:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 14:54:00.869077:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 14:58:07.375371:ERROR: A transiçao: q1:a:q2,q3 Não faz parte do automato!
+ERROR:root:2020-05-25 14:59:37.769682:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 15:00:21.713078:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 15:10:15.680548:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 15:12:10.323988:'NoneType' object has no attribute 'strip'
+ERROR:root:2020-05-25 15:22:36.757995:[Errno 13] Permission denied: 'C:\\Users\\319024\\PycharmProjects\\remove_epsilon_transitions\\file\\input_file.xlsx'
+ERROR:root:2020-05-25 15:33:12.577640:'q2'
+ERROR:root:2020-05-25 15:34:57.080257:'q2'
+ERROR:root:2020-05-25 16:07:27.428564: local variable 'state' referenced before assignment
+ERROR:root:2020-05-25 16:07:58.209743: local variable 'state' referenced before assignment
+ERROR:root:2020-05-25 16:11:34.580539: 'list' object has no attribute 'get_name'
+ERROR:root:2020-05-25 17:57:09.772152: 'list' object has no attribute 'get_name'
